@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JobNow</string>
+    <string name="action_settings">Настройки</string>
+    <string name="drawer_item_home">Главная</string>
+    <string name="drawer_item_find_job">Найти работу</string>
+    <string name="drawer_item_find_workers">Найти сотрудников</string>
+    <string name="drawer_item_favorites">Избранное</string>
+    <string name="drawer_item_history">История</string>
+    <string name="drawer_item_settings">Настройки</string>
+    <string name="drawer_item_help">Помощь</string>
+    <string name="drawer_section_settings">Настройки</string>
+</resources>
